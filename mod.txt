@@ -1,0 +1,8 @@
+{
+	"name":"TEMPLATE",
+	"description":"",
+	"author":"calculatortamer",
+	"contact":"https://steamcommunity.com/profiles/76561198350868208",
+	"version":"1.0.0",
+	"priority":0
+}
