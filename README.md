@@ -1,5 +1,5 @@
 # payday2_mods
 
-my non-MWS compliant payday 2 mods here
+# all melees are 450 dmg and 140 dps
 
-check branches for mods
+non-MWS compliant just because a retarded admin cant math and screams "CHEATWORKSHOP"
