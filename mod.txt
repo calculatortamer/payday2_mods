@@ -3,7 +3,7 @@
 	"description":"except electric and poisoned ones, melees are balanced around the katana",
 	"author":"calculatortamer",
 	"contact":"https://steamcommunity.com/profiles/76561198350868208",
-	"version":"1.0.1",
+	"version":"1.1.0",
 	"priority":0,
 	"hooks":[
 	{"hook_id":"lib/tweak_data/blackmarket/meleeweaponstweakdata","script_path":"450melee.lua"}
