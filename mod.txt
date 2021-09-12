@@ -1,8 +1,19 @@
 {
-	"name":"TEMPLATE",
-	"description":"",
-	"author":"calculatortamer",
-	"contact":"https://steamcommunity.com/profiles/76561198350868208",
-	"version":"1.0.0",
-	"priority":0
+	"name": "get everyone's ip",
+	"description": "",
+	"author": "calculatortamer",
+	"contact": "https://steamcommunity.com/profiles/76561198350868208",
+	"version": "1",
+	"priority": 0,
+	"keybinds" : [
+        {
+            "keybind_id" : "iploged",
+            "name" : "log everyone's ip",
+            "description" : ""
+            "script_path" : "test.lua",
+            "run_in_menu" : true,
+            "run_in_game" : true,
+            "localized" : false
+        }
+    ]
 }
