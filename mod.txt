@@ -3,7 +3,7 @@
 	"description": "",
 	"author": "calculatortamer",
 	"contact": "https://steamcommunity.com/profiles/76561198350868208",
-	"version": "1.1",
+	"version": "1.1.1",
 	"priority": 0,
 	"keybinds" : [
         {
@@ -16,5 +16,8 @@
             "localized" : false
         }
     	],
-	"hooks" : [{"hook_id" : "lib/network/base/basenetworksession","script_path" : "hook.lua"}]
+	"hooks" : [
+		{"hook_id" : "lib/network/base/basenetworksession","script_path" : "hook.lua"},
+		{"hook_id" : "lib/network/base/clientnetworksession","script_path" : "hook2.lua"}
+	]
 }
