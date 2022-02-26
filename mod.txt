@@ -1,8 +1,13 @@
 {
-	"name":"TEMPLATE",
-	"description":"",
-	"author":"calculatortamer",
-	"contact":"https://steamcommunity.com/profiles/76561198350868208",
-	"version":"1.0.0",
-	"priority":0
+    "name" : "use bodybags in loud",
+    "description" : "",
+    "author" : "",
+    "contact" : "",
+    "version" : "1.0",
+    "priority" : 0,
+    "hooks" : [
+	{"hook_id" : "lib/units/civilians/logics/civilianlogicinactive","script_path" : "civ.lua"},
+	{"hook_id" : "lib/units/enemies/cop/logics/coplogicinactive","script_path" : "cop.lua"},
+	{"hook_id" : "lib/units/interactions/interactionext","script_path" : "inter.lua"}
+	]
 }
