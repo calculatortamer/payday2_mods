@@ -1,9 +1,9 @@
 {
     "name" : "use bodybags in loud",
     "description" : "",
-    "author" : "",
-    "contact" : "",
-    "version" : "1.0",
+    "author" : "calculatortamer",
+    "contact" : "https://steamcommunity.com/profiles/76561198350868208",
+    "version" : "1.0.0",
     "priority" : 0,
     "hooks" : [
 	{"hook_id" : "lib/units/civilians/logics/civilianlogicinactive","script_path" : "civ.lua"},
