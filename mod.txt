@@ -3,7 +3,7 @@
     "description" : "",
     "author" : "calculatortamer",
     "contact" : "https://steamcommunity.com/profiles/76561198350868208",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "priority" : 0,
 	"keybinds" : [
     {
