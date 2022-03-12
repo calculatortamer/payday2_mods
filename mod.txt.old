@@ -1,0 +1,26 @@
+{
+    "name" : "automatically press ready",
+    "description" : "",
+    "author" : "calculatortamer",
+    "contact" : "https://steamcommunity.com/profiles/76561198350868208",
+    "version" : "1.0.0",
+    "priority" : 0,
+	"keybinds" : [
+    {
+        "keybind_id" : "ctamer_auto_ready",
+        "name" : "toggle auto ready",
+        "description" : "",
+        "script_path" : "test.lua",
+        "run_in_menu" : true,
+        "run_in_game" : true,
+        "localized" : false
+    }
+],
+	"persist_scripts":[
+{"global":"ctamer_disable_autoready","script_path":"persist.lua"}
+	],
+	"hooks":[
+{"hook_id":"lib/network/base/clientnetworksession","script_path":"autodisable.lua"}
+	]
+	
+}
