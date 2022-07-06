@@ -11,5 +11,4 @@ check branches for mods
 - [auto ready](https://github.com/calculatortamer/payday2_mods/tree/auto_ready)
 - [block non channel 1 chat messages / beardlib spam](https://github.com/calculatortamer/payday2_mods/tree/block_beardlib_spam)
 
-to download a mod, either download the "source code" zip file from releases
-or click the green "Code" button and download zip from the branches
+to download a mod, select a mod branch and click the green "Code" button and download zip
