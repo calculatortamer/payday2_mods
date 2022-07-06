@@ -1,14 +1,9 @@
-# payday2_mods
+# block non channel 1 chat messages / beardlib spam
 
-my non-MWS compliant payday 2 mods here
+## (FOR NON-BEARDLIB USERS ONLY)
 
-check branches for mods
+are you tired of seeing [INFO] [4] __________ : GNAP/BEO|1/{"glove_variation":"mes_couilles"}  in your logs ?
 
-- [all melees are 450 dmg and 140 dps](https://github.com/calculatortamer/payday2_mods/tree/equal_melee)
-- [ban host on kick](https://github.com/calculatortamer/payday2_mods/tree/ban_host_on_kick)
-- [get everyone's ip](https://github.com/calculatortamer/payday2_mods/tree/get_everyones_ip)
-- [use bodybags in loud](https://github.com/calculatortamer/payday2_mods/tree/bodybag_loud)
-- [auto ready](https://github.com/calculatortamer/payday2_mods/tree/auto_ready)
+this mod blocks non channel 1 chat messages, regular chat only reads channel 1, beardlib uses channel 4 to spam your logs with useless "GNAP" shit
 
-to download a mod, either download the "source code" zip file from releases
-or click the green "Code" button and download zip from the branches
+i once got someone who spammed """"anti crash tester"""" or something in channel 4 chat and it froze my game for a few sec so i made this mod
