@@ -9,6 +9,7 @@ check branches for mods
 - [get everyone's ip](https://github.com/calculatortamer/payday2_mods/tree/get_everyones_ip)
 - [use bodybags in loud](https://github.com/calculatortamer/payday2_mods/tree/bodybag_loud)
 - [auto ready](https://github.com/calculatortamer/payday2_mods/tree/auto_ready)
+- [block non channel 1 chat messages / beardlib spam](https://github.com/calculatortamer/payday2_mods/tree/block_beardlib_spam)
 
 to download a mod, either download the "source code" zip file from releases
 or click the green "Code" button and download zip from the branches
