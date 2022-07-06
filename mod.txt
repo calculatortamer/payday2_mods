@@ -1,8 +1,11 @@
 {
-	"name":"TEMPLATE",
-	"description":"",
-	"author":"calculatortamer",
-	"contact":"https://steamcommunity.com/profiles/76561198350868208",
-	"version":"1.0.0",
-	"priority":0
+	"name": "block non channel 1 chat messages/beardlib messages",
+	"description": "",
+	"author": "calculatortamer",
+	"contact": "https://steamcommunity.com/profiles/76561198350868208",
+	"version": "1.0.0",
+	"priority": 0,
+	"hooks": [
+		{"hook_id": "lib/network/base/handlers/connectionnetworkhandler","script_path": "rpc.lua"},
+	]
 }
